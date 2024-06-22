@@ -19,8 +19,7 @@
 
 ## Made For 
 
-Abdal FTP BruteForce tool is a powerful software with zero error rate to test the intrusion of servers that work with FTP protocol, this tool supports proxy for attacks and can transfer all your traffic in the hacking process to the proxy Slowly
-
+Abdal FTP BruteForce tool is a powerful software with a zero error rate designed to test the security of servers using the FTP protocol. This tool supports proxy usage for attacks and can redirect all your traffic through the proxy during the hacking process.
 
 **Requires**
 > Visual Studio 2019 - Telerik WinForm - Chilkat - .NetFramework 4.*
